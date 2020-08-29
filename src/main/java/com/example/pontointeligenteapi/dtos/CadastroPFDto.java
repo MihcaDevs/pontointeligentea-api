@@ -1,4 +1,4 @@
-package com.example.pontointeligenteapi.controlers;
+package com.example.pontointeligenteapi.dtos;
 
 import java.util.Optional;
 
